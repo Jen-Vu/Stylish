@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  STYLiSH
+
+  Created by littlema on 2019/7/31.
+  Copyright © 2019 littema. All rights reserved.
+*/
+
+"AddShoppingCart" = "加入購物車";
+"Women" = "女裝";
+"Men" = "男裝";
+"Accessories" = "配件";
+"Catalog" = "型錄";
+"ShoppingCart" = "購物車";
+"Remove" = "移除";
+"GoCheckout" = "前往結帳";
+"Checkout" = "結帳";
+"OrderProducts" = "結帳商品";
+"RecipientInfo" = "收件資訊";
+"RecipientName" = "收件人姓名";
+"Email" = "Email";
+"Phone" = "手機號碼";
+"Address" = "地址";
+"ShipTime" = "配送時間";
+"NotSpecified" = "不指定";
+"PaymentMethod" = "付款詳情";
+"CreditCard" = "信用卡付款";
+"Cash" = "貨到付款";
+"SubTotal" = "商品總金額";
+"Freight" = "商品運費";
+"ProductQuauntity" = "總計(%d樣商品)";
+"ConformCheckcout" = "確定結帳";
+"CheckcoutSuccess" = "結帳成功";
+"CheckcoutSuccessInfo" = "我們收到您的訂單了！將以最快的速度為您安排出貨。";
+"LoginSuccessed" = "登入成功";
+"LoginFailed" = "登入失敗";
+"LoginCancelled" = "取消登入";
+"LoginFirst" = "請先登入會員";
+"LoginFirstInfo" = "登入會員後即可使用個人功能。";
+"FacebookLogin" = "Facebook登入";
+"Profile" = "個人";
+"Accumulation" = "累計消費";
+"MyOrders" = "我的訂單";
+"WaitPayment" = "待付款";
+"WaitShipment" = "待出貨";
+"WaitReceived" = "待簽收";
+"WaitEvaluation" = "待評價";
+"Returns/Refunds" = "待評價";
+"MoreService" = "更多服務";
+"Collection" = "收藏";
+"Notification" = "貨到通知";
+"Refund" = "帳戶退款";
+"CustomerService" = "客服訊息";
+"FeedBack" = "系統回饋";
+"Binding" = "手機綁定";
+"Settting" = "設定";
+"Stock" = "庫存";
+"Color" = "顏色";
+"Texture" = "材質";
+"Size" = "尺寸";
+"Wash" = "洗滌";
+"MadeIn" = "產地";
+"Note" = "備註";
+"ChoiceColor" = "選擇顏色";
+"ChoiceSize" = "選擇尺寸";
+"ChoiceQuantity" = "選擇數量";
+"SeeMore>" = "查看全部 >";
+"CurrentStock" = "庫存: %d";
+"AddSuccess" = "已加入購物車";
+"CreditCardInfo" = "信用卡資訊";
+"CheckoutInfo" = "結帳結果";
+
+
+

@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  STYLiSH
+
+  Created by littlema on 2019/7/31.
+  Copyright © 2019 littema. All rights reserved.
+*/
+
+"AddShoppingCart" = "Add ShoppingCart";
+"Women" = "Wonen";
+"Men" = "Men";
+"Accessories" = "Accessories";
+"Catalog" = "Catalog";
+"ShoppingCart" = "ShoppingCart";
+"Remove" = "Remove";
+"GoCheckout" = "Go Checkout";
+"Checkout" = "Checkout";
+"OrderProducts" = "Order Products";
+"RecipientInfo" = "Recipient Infomation";
+"RecipientName" = "Recipient Name";
+"Email" = "Email";
+"Phone" = "Phone";
+"Address" = "Address";
+"ShipTime" = "Ship Time";
+"NotSpecified" = "Not Specified";
+"PaymentMethod" = "Payment Method";
+"CreditCard" = "Credit Card";
+"Cash" = "Cash";
+"SubTotal" = "SubTotal";
+"Freight" = "Freight";
+"ProductQuauntity" = "Total(%d products)";
+"ConformCheckcout" = "Conform";
+"CheckcoutSuccess" = "Checkcout Success";
+"CheckcoutSuccessInfo" = "We have received your order! Will arrange shipments for you as quickly as possible";
+"LoginSuccessed" = "Login Successed";
+"LoginFailed" = "Login Failed";
+"LoginCancelled" = "Login Cancelled";
+"LoginFirst" = "Please login first";
+"LoginFirstInfo" = "Use your personal features when you log in to your membership";
+"FacebookLogin" = "Facebook Login";
+"Profile" = "Profile";
+"Accumulation" = "Accumulation";
+"MyOrders" = "MyOrders";
+"WaitPayment" = "Payment";
+"WaitShipment" = "Shipment";
+"WaitReceived" = "Received";
+"WaitEvaluation" = "Evaluation";
+"Returns/Refunds" = "ReturnsRefunds";
+"MoreService" = "More Service";
+"Collection" = "Collection";
+"Notification" = "Notification";
+"Refund" = "Refund";
+"CustomerService" = "CustomerService";
+"FeedBack" = "FeedBack";
+"Binding" = "Binding";
+"Settting" = "Settting";
+"Stock" = "Stock";
+"Color" = "Color";
+"Texture" = "Texture";
+"Size" = "Size";
+"Wash" = "Wash";
+"MadeIn" = "Made In";
+"Note" = "Note";
+"ChoiceColor" = "Choice Color";
+"ChoiceSize" = "Choice Size";
+"SeeMore>" = "SeeMore >";
+"CurrentStock" = "Stock: %d";
+"ChoiceQuantity" = "Choice Quantity";
+"AddSuccess" = "Add Success";
+"CreditCardInfo" = "Credit Card Information";

@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - ESPullToRefresh (2.9)
+  - FacebookCore (0.7.0):
+    - FBSDKCoreKit (~> 5.0)
+  - FacebookLogin (0.7.0):
+    - FacebookCore (~> 0.7)
+    - FBSDKCoreKit (~> 5.0)
+    - FBSDKLoginKit (~> 5.0)
+  - FBSDKCoreKit (5.2.2):
+    - FBSDKCoreKit/Basics (= 5.2.2)
+    - FBSDKCoreKit/Core (= 5.2.2)
+  - FBSDKCoreKit/Basics (5.2.2)
+  - FBSDKCoreKit/Core (5.2.2):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (5.2.2):
+    - FBSDKCoreKit (~> 5.0)
+  - IQKeyboardManagerSwift (6.4.0)
+  - KeychainAccess (3.2.0)
+  - Kingfisher (5.7.0)
+  - SwiftLint (0.33.1)
+  - Toast-Swift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - ESPullToRefresh
+  - FacebookCore
+  - FacebookLogin
+  - IQKeyboardManagerSwift
+  - KeychainAccess
+  - Kingfisher (~> 5.0)
+  - SwiftLint
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ESPullToRefresh
+    - FacebookCore
+    - FacebookLogin
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - SwiftLint
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  ESPullToRefresh: ce058a36454a5032519cc9d8b45da217728cf104
+  FacebookCore: 4eee98476cb37a485af5d337eb21f8cd5b3c7e6c
+  FacebookLogin: 94cdad6850e86a2b04704dedfe7674a7af8148eb
+  FBSDKCoreKit: e56801ebceaee1eaa4019e53bfaa04dc6ad2a60d
+  FBSDKLoginKit: 32af638b7e00b6bb2b22698bbeb72113bdacfd3a
+  IQKeyboardManagerSwift: ed9b04ee0e3067ffba543283462d619f944b05e5
+  KeychainAccess: 3b1bf8a77eb4c6ea1ce9404c292e48f948954c6b
+  Kingfisher: c7d211b54f1f30d8060aadab177d52b4349c825b
+  SwiftLint: 9fc1143bbacec37f94994a7d0d2a85b2154b6294
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+
+PODFILE CHECKSUM: 6e907703ef6a7081e9b186e906b9592b1b0467bb
+
+COCOAPODS: 1.6.1

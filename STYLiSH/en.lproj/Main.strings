@@ -1,0 +1,75 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "1jL-17-Pr7"; */
+"1jL-17-Pr7.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "2g2-Jp-Qn6"; */
+"2g2-Jp-Qn6.title" = "Item";
+
+/* Class = "UILabel"; text = "登入會員後即可完成結帳。"; ObjectID = "2tX-8X-4ks"; */
+"2tX-8X-4ks.text" = "Use your personal features when you login to your membership";
+
+/* Class = "UILabel"; text = "我們收到您的訂單了！將以最快的速度為您安排出貨。"; ObjectID = "AWB-YC-7XM"; */
+"AWB-YC-7XM.text" = "We have received your order! Will arrange shipments for you as quickly as possible.";
+
+/* Class = "UILabel"; text = "請先登入會員"; ObjectID = "Cc0-mA-Tro"; */
+"Cc0-mA-Tro.text" = "Please login first";
+
+/* Class = "UILabel"; text = "載入中..."; ObjectID = "Ed1-6K-Czg"; */
+"Ed1-6K-Czg.text" = "Loading...";
+
+/* Class = "UILabel"; text = "載入中..."; ObjectID = "HTz-OA-PlW"; */
+"HTz-OA-PlW.text" = "Loading...";
+
+/* Class = "UIButton"; normalTitle = "配件"; ObjectID = "M22-j0-GvV"; */
+"M22-j0-GvV.normalTitle" = "Accessories";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "MbD-9E-O49"; */
+"MbD-9E-O49.normalTitle" = "Add ShoppingCart";
+
+/* Class = "UINavigationItem"; title = "購物車"; ObjectID = "McW-cY-JZA"; */
+"McW-cY-JZA.title" = "ShoppingCart";
+
+/* Class = "UINavigationItem"; title = "型錄"; ObjectID = "Mun-Or-yZV"; */
+"Mun-Or-yZV.title" = "Catalog";
+
+/* Class = "UIButton"; normalTitle = "女裝"; ObjectID = "N5D-xf-IVp"; */
+"N5D-xf-IVp.normalTitle" = "Wonen";
+
+/* Class = "UINavigationItem"; title = "結帳"; ObjectID = "SjM-ES-DVy"; */
+"SjM-ES-DVy.title" = "Checkout";
+
+/* Class = "UIButton"; normalTitle = "Facebook登入"; ObjectID = "Wei-T5-9Db"; */
+"Wei-T5-9Db.normalTitle" = "Facebook Login";
+
+/* Class = "UIButton"; normalTitle = "確認"; ObjectID = "ald-A8-u5t"; */
+"ald-A8-u5t.normalTitle" = "Conform";
+
+/* Class = "UIButton"; normalTitle = "再去逛逛"; ObjectID = "b9w-Km-AXx"; */
+"b9w-Km-AXx.normalTitle" = "See More";
+
+/* Class = "UIButton"; normalTitle = "男裝"; ObjectID = "biG-DG-Rq6"; */
+"biG-DG-Rq6.normalTitle" = "Men";
+
+/* Class = "UILabel"; text = "載入中..."; ObjectID = "fjh-cd-bai"; */
+"fjh-cd-bai.text" = "Loading...";
+
+/* Class = "UILabel"; text = "載入中..."; ObjectID = "fxD-Oa-y7C"; */
+"fxD-Oa-y7C.text" = "Loading...";
+
+/* Class = "UINavigationItem"; title = "個人"; ObjectID = "iM6-5b-gMc"; */
+"iM6-5b-gMc.title" = "Profile";
+
+/* Class = "UILabel"; text = "載入中..."; ObjectID = "jOQ-VP-na5"; */
+"jOQ-VP-na5.text" = "Loading...";
+
+/* Class = "UIButton"; normalTitle = "前往結帳"; ObjectID = "kvL-Ri-Xd3"; */
+"kvL-Ri-Xd3.normalTitle" = "Go Checkout";
+
+/* Class = "UILabel"; text = "結帳成功"; ObjectID = "l83-ZT-Tj7"; */
+"l83-ZT-Tj7.text" = "Checkout Success";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "wwl-n6-v0O"; */
+"wwl-n6-v0O.normalTitle" = "Add ShoppingCart";
+
+/* Class = "UILabel"; text = "載入中..."; ObjectID = "xkQ-OV-bbe"; */
+"xkQ-OV-bbe.text" = "Loading...";
